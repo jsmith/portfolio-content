@@ -12,7 +12,7 @@
       "link": "https://dawg.dev",
       "repo": "https://github.com/dawg/vusic",
       "description": "A Digital Audio Workstation built using the web 🤘",
-      "tags": ["Typescript", "Web Audio API", "Electron", "Vue"],
+      "tags": ["TypeScript", "Web Audio API", "Electron", "Vue"],
       "imageUrl": "https://camo.githubusercontent.com/4f49ac033926671e82c6cc054b508473c450151c/68747470733a2f2f692e6962622e636f2f6746324863345a2f53637265656e2d53686f742d323032302d30332d31302d61742d322d34302d35312d504d2e706e67"
     },
     {
@@ -20,7 +20,7 @@
       "link": "https://jsmith.github.io",
       "repo": "https://github.com/jsmith/portfolio2.0",
       "description": "My second portfolio site (the one you're looking at right now).",
-      "tags": ["Typescript", "Vue"],
+      "tags": ["TypeScript", "Vue"],
       "imageUrl": "https://i.ibb.co/254kZv1/Screen-Shot-2020-03-16-at-12-40-33-PM.png"
     },
     {
@@ -28,7 +28,7 @@
       "link": "https://jsmith.github.io/vuepress-theme-terminal",
       "repo": "https://github.com/jsmith/portfolio",
       "description": "My first portfolio site, built to mimic a terminal.",
-      "tags": ["Typescript", "Vue"],
+      "tags": ["TypeScript", "Vue"],
       "imageUrl": "https://i.ibb.co/MP4dFV2/Screen-Shot-2020-03-16-at-12-43-35-PM.png"
     },
     {
@@ -36,7 +36,7 @@
       "link": "https://jsmith.github.io/assembly",
       "repo": "https://github.com/jsmith/assembly",
       "description": "A simple online assembly language compiler with a debugger.",
-      "tags": ["Typescript", "Vue"],
+      "tags": ["TypeScript", "Vue"],
       "imageUrl": "https://i.ibb.co/y0B1sf9/Screen-Shot-2020-03-16-at-12-45-53-PM.png",
       "stretch": true
     },
@@ -47,6 +47,22 @@
       "description": "A machine library (ID3, Naive Bayes, Random Forest K-Nearest Neighbors) built in pure Java.",
       "tags": ["Java", "Machine Learning"],
       "imageUrl": "https://i.ibb.co/WBnGHR9/Screen-Shot-2020-03-16-at-12-53-31-PM.png"
+    },
+    {
+      "name": "Web Prov",
+      "link": "https://sfb-elaine.github.io/WebProv/",
+      "repo": "https://github.com/SFB-ELAINE/WebProv",
+      "description": "Web Prov is graph visualizer for simulation model provenance information I created at the University of Rostock.",
+      "tags": ["Biology", "TypeScript", "Vue", "Neo4j"],
+      "imageUrl": "https://i.ibb.co/cwnMRhg/Screen-Shot-2020-04-01-at-5-07-40-PM.png"
+    },
+    {
+      "name": "COVID-19 Scenarios",
+      "link": "https://neherlab.org/covid19/",
+      "repo": "https://github.com/neherlab/covid19_scenarios",
+      "description": "A COVID-19 scenario simulator I've been contributing to during the COVID-19 epidemic.",
+      "tags": ["React", "TypeScript", "Biology"],
+      "imageUrl": "https://i.ibb.co/GsbVyHB/Screen-Shot-2020-04-01-at-5-11-51-PM.png"
     }
   ]
 }
