@@ -11,7 +11,7 @@
       "name": "Relar",
       "link": "https://relar.app",
       "description": "A cloud based solution for hosting your mp3 collections with mobile support.",
-      "tags": ["TypeScript", "Web Audio API", "Electron", "Vue"],
+      "tags": ["TypeScript", "iOS", "Android", "React"],
       "imageUrl": "https://camo.githubusercontent.com/4f49ac033926671e82c6cc054b508473c450151c/68747470733a2f2f692e6962622e636f2f6746324863345a2f53637265656e2d53686f742d323032302d30332d31302d61742d322d34302d35312d504d2e706e67"
     },
     {
