@@ -47,5 +47,29 @@
       "tags": ["React", "TypeScript", "Biology"],
       "imageUrl": "https://i.ibb.co/GsbVyHB/Screen-Shot-2020-04-01-at-5-11-51-PM.png"
     }
+  ],
+  "books": [
+    {
+      "title": "Walkable City: How Downtown Can Save America, One Step at a Time",
+      "author": "Jeff Speck",
+      "date": "December 6 2020",
+      "genre": [
+        "Nonfiction",
+        "Urbanism"
+      ],
+      "url": "https://www.goodreads.com/book/show/13538794-walkable-city",
+      "review": "The way we build cities has a big impact on the way we live. Do you live in a suburb and travel, by car, to your workplace on a daily basis? Or, can you walk to your workplace and run other errands on foot? Today, we don't seem to build cities like we used to, especially in North America. This isn't true everywhere though. In Europe and Asia, we see many cities, old and new, that are extremely walkable. Jeff Speck, an American city planner, writes about *how* we can make American cities and towns more walkable. This may sound simplistic but the implications of making a city more walkable are profound. A \"walkable\" city is one where people less car dependant, healthier, richer and have a smaller environmental impact. Meanwhile, the city itself becomes a more desirable place to live. If you want to improve the city you live in, definitely give this book a read."
+    },
+    {
+      "title": "Being Mortal: Medicine and What Matters in the End",
+      "author": "Atul Gawande",
+      "date": "January 6 2020",
+      "genre": [
+        "Nonfiction",
+        "Medicine"
+      ],
+      "url": "https://www.goodreads.com/book/show/20696006-being-mortal",
+      "review": "Being Mortal is the story of growing old and dealing with the challenges that life throws at you. Along the way, you also dive into modern geriatric practices. You hear the stories of the elderly trying manage the afflictions of old age and realize how important it is for them to hold onto their independence for as long as possible. Finally, Gawande makes the story personal and tells the story of his own fathers fight with cancer. He teaches you how important it is, as one ages, to discuss one's priorities with loved ones and your doctor. Modern medicine can always offer a miracle, but at what cost?"
+    }
   ]
 }
